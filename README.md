@@ -9,34 +9,35 @@ To achieve the goal of climate sustainability, this study aims to answer the fol
 
 # Dataset Descriptions
 
-## Carbon-Climate Dataset
-
-This dataset contains various variables related to carbon emissions and climate indicators for different countries over multiple years.
+## Carbon Dataset
 
 | Variable Name                                      | Description                                                      |
 |---------------------------------------------------|------------------------------------------------------------------|
+| **Region**                                        | The geographical region of the country                         |
 | **Country**                                       | Name of the country                                             |
 | **Year**                                          | The corresponding year of the recorded data                    |
-| **CO2 Emission**                                  | Total CO2 emissions in the country                             |
-| **GDP**                                           | The Gross Domestic Product of the country                      |
 | **Population**                                    | The population size in the country                             |
-| **Life Expectancy**                               | The average number of years a person is expected to live      |
-| **Unemployment Rate**                             | The percentage of the unemployment rate in the country         |
-| **Energy Consumption**                            | The total energy output in the country                         |
-| **Temperature**                                   | Average temperature in the country (°C)                        |
-| **Precipitation**                                 | Total precipitation in the country (mm)                        |
-| **Number of Climate-Related Disasters**           | Total number of climate-related disasters in the country       |
-| **CO2 Emissions from Buildings**                  | Total CO2 emissions from buildings in the country              |
-| **CO2 Emissions from Industry**                   | Total CO2 emissions from the industry in the country           |
-| **CO2 Emissions from Land Use Change and Forestry** | Total CO2 emissions from land use change and forestry in the country |
-| **CO2 Emissions from Other Combustion**           | Total CO2 emissions from other combustion sources in the country |
-| **CO2 Emissions from Transport**                   | Total CO2 emissions from transport in the country              |
-| **CO2 Emissions from Manufacturing and Construction** | Total CO2 emissions from manufacturing and construction in the country |
-| **CO2 Emissions from Electricity and Heat**        | Total CO2 emissions from electricity and heat in the country   |
+| **CO2 Emissions from Buildings**                  | Total CO2 emissions from buildings in the country (metric tons)|
+| **CO2 Emissions from Industry**                   | Total CO2 emissions from the industry in the country (metric tons) |
+| **CO2 Emissions from Land Use Change and Forestry** | Total CO2 emissions from land use change and forestry (metric tons) |
+| **CO2 Emissions from Other Combustion**           | Total CO2 emissions from other combustion sources (metric tons) |
+| **CO2 Emissions from Transport**                   | Total CO2 emissions from transport in the country (metric tons) |
+| **CO2 Emissions from Manufacturing and Construction** | Total CO2 emissions from manufacturing and construction (metric tons) |
+| **CO2 Emissions from Electricity and Heat**        | Total CO2 emissions from electricity and heat in the country (metric tons) |
+| **CO2 Emissions from Bunker Fuels**                | Total CO2 emissions from bunker fuels (metric tons)            |
+| **Total Annual CO2 Emissions**                    | Total annual CO2 emissions in the country (metric tons)       |
 
-## Carbon-Climate Policy Dataset
+# Climate Dataset Description
 
-This dataset provides information on various climate policies implemented by countries, including their objectives and sectors.
+| Variable Name                        | Description                                                      |
+|-------------------------------------|------------------------------------------------------------------|
+| **Country**                         | Name of the country                                             |
+| **Year**                            | The corresponding year of the recorded data                    |
+| **Avg Annual Temperature**          | Average annual temperature in the country (°C)                |
+| **Avg Annual Precipitation**        | Average annual precipitation in the country (mm)              |
+| **Total Disasters Recorded**        | Total number of climate-related disasters recorded in the country |
+
+## Policy Dataset Description
 
 | Variable Name                                      | Description                                                      |
 |---------------------------------------------------|------------------------------------------------------------------|
