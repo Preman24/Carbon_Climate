@@ -7,10 +7,6 @@ To achieve the goal of climate sustainability, this study aims to answer the fol
 4. How do societal factors influence carbon emissions?
 
 
-Sure! Here’s a well-structured dataset description suitable for GitHub:
-
----
-
 # Dataset Descriptions
 
 ## Carbon-Climate Dataset
@@ -27,6 +23,9 @@ This dataset contains various variables related to carbon emissions and climate 
 | **Life Expectancy**                               | The average number of years a person is expected to live      |
 | **Unemployment Rate**                             | The percentage of the unemployment rate in the country         |
 | **Energy Consumption**                            | The total energy output in the country                         |
+| **Temperature**                                   | Average temperature in the country (°C)                        |
+| **Precipitation**                                 | Total precipitation in the country (mm)                        |
+| **Number of Climate-Related Disasters**           | Total number of climate-related disasters in the country       |
 | **CO2 Emissions from Buildings**                  | Total CO2 emissions from buildings in the country              |
 | **CO2 Emissions from Industry**                   | Total CO2 emissions from the industry in the country           |
 | **CO2 Emissions from Land Use Change and Forestry** | Total CO2 emissions from land use change and forestry in the country |
@@ -48,7 +47,3 @@ This dataset provides information on various climate policies implemented by cou
 | **Sector**                                        | The sector of the policy                                       |
 | **Policy Objective**                              | The objective of the policy                                    |
 | **Policy Description**                            | A detailed description of the policy                           |
-
----
-
-Feel free to modify any part of this description to better fit your needs!
