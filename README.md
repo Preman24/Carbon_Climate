@@ -27,7 +27,7 @@ To achieve the goal of climate sustainability, this study aims to answer the fol
 | **CO2 Emissions from Bunker Fuels**                | Total CO2 emissions from bunker fuels (metric tons)            |
 | **Total Annual CO2 Emissions**                    | Total annual CO2 emissions in the country (metric tons)       |
 
-# Climate Dataset Description
+## Climate Dataset Description
 
 | Variable Name                        | Description                                                      |
 |-------------------------------------|------------------------------------------------------------------|
@@ -48,3 +48,16 @@ To achieve the goal of climate sustainability, this study aims to answer the fol
 | **Sector**                                        | The sector of the policy                                       |
 | **Policy Objective**                              | The objective of the policy                                    |
 | **Policy Description**                            | A detailed description of the policy                           |
+
+## Societal Factors Dataset
+
+| Variable Name              | Description                                                      |
+|---------------------------|------------------------------------------------------------------|
+| **Country**               | Name of the country                                             |
+| **Year**                  | The corresponding year of the recorded data                    |
+| **CO2 Emissions**         | Total CO2 emissions in the country (metric tons)               |
+| **GDP**                   | The Gross Domestic Product of the country (in USD)             |
+| **Population**            | The population size in the country                             |
+| **Life Expectancy**       | The average number of years a person is expected to live      |
+| **Unemployment Rate**     | The percentage of the unemployment rate in the country         |
+| **Energy Consumption**     | The total energy output in the country (in GJ)                 |
