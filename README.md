@@ -1,4 +1,4 @@
-# note: It is a grouped Final Year Project, where our topic must be aligned with one of the Sustainable Development Goals (SDGs)
+note: It is a grouped Final Year Project, where our topic must be aligned with one of the Sustainable Development Goals (SDGs)
 
 # Title: Investigate the impact of carbon emissions on climate change
 
