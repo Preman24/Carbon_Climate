@@ -6,3 +6,49 @@ To achieve the goal of climate sustainability, this study aims to answer the fol
 3. What can be done to reduce carbon emissions and minimize climate impacts?
 4. How do societal factors influence carbon emissions?
 
+
+Sure! Here’s a well-structured dataset description suitable for GitHub:
+
+---
+
+# Dataset Descriptions
+
+## Carbon-Climate Dataset
+
+This dataset contains various variables related to carbon emissions and climate indicators for different countries over multiple years.
+
+| Variable Name                                      | Description                                                      |
+|---------------------------------------------------|------------------------------------------------------------------|
+| **Country**                                       | Name of the country                                             |
+| **Year**                                          | The corresponding year of the recorded data                    |
+| **CO2 Emission**                                  | Total CO2 emissions in the country                             |
+| **GDP**                                           | The Gross Domestic Product of the country                      |
+| **Population**                                    | The population size in the country                             |
+| **Life Expectancy**                               | The average number of years a person is expected to live      |
+| **Unemployment Rate**                             | The percentage of the unemployment rate in the country         |
+| **Energy Consumption**                            | The total energy output in the country                         |
+| **CO2 Emissions from Buildings**                  | Total CO2 emissions from buildings in the country              |
+| **CO2 Emissions from Industry**                   | Total CO2 emissions from the industry in the country           |
+| **CO2 Emissions from Land Use Change and Forestry** | Total CO2 emissions from land use change and forestry in the country |
+| **CO2 Emissions from Other Combustion**           | Total CO2 emissions from other combustion sources in the country |
+| **CO2 Emissions from Transport**                   | Total CO2 emissions from transport in the country              |
+| **CO2 Emissions from Manufacturing and Construction** | Total CO2 emissions from manufacturing and construction in the country |
+| **CO2 Emissions from Electricity and Heat**        | Total CO2 emissions from electricity and heat in the country   |
+
+## Carbon-Climate Policy Dataset
+
+This dataset provides information on various climate policies implemented by countries, including their objectives and sectors.
+
+| Variable Name                                      | Description                                                      |
+|---------------------------------------------------|------------------------------------------------------------------|
+| **Country**                                       | Name of the country                                             |
+| **Country ISO Code**                             | ISO code of the country                                        |
+| **Year**                                          | The corresponding year of the policy implementation            |
+| **Policy Title**                                  | Name of the policy                                            |
+| **Sector**                                        | The sector of the policy                                       |
+| **Policy Objective**                              | The objective of the policy                                    |
+| **Policy Description**                            | A detailed description of the policy                           |
+
+---
+
+Feel free to modify any part of this description to better fit your needs!
