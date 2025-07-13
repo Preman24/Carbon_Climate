@@ -57,3 +57,6 @@ Result 4.
 => The best policy effectiveness based on the policy objectives was 'Mitigation' and 'Sustainable Development' significantly reduce carbon emissions and climate impacts, with 'Mitigation' achieving the lowest changes in Carbon emissions and Precipitation, while 'Sustainable Development' minimizes Temperature and Climate-related Disaster changes; Adaptation also proves effective by reducing temperature change by 1.7 degrees Celsius, closely following Sustainable Development
 
 => As 'Mitigation' and 'Sustainable Development' were the most effective, word cloud analysis revealed the top 10 keywords implemented like 'Renewable' and 'Energy,' indicating a focus on clean energy transition, while collaboration with organizations such as OECD, IEA, and IRENA suggests enhanced effectiveness in achieving carbon and climate goals, alongside planned progress meetings and a tracking database for policy consistency
+
+
+# Tools: NumPy, Pandas, Matplotlib, Seaborn, Plotly, WordCloud, NLTK, SciPy, and Scikit-learn
