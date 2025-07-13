@@ -59,4 +59,4 @@ Result 4.
 => As 'Mitigation' and 'Sustainable Development' were the most effective, word cloud analysis revealed the top 10 keywords implemented like 'Renewable' and 'Energy,' indicating a focus on clean energy transition, while collaboration with organizations such as OECD, IEA, and IRENA suggests enhanced effectiveness in achieving carbon and climate goals, alongside planned progress meetings and a tracking database for policy consistency
 
 
-# Tools: NumPy, Pandas, Matplotlib, Seaborn, Plotly, WordCloud, NLTK, SciPy, and Scikit-learn
+# Tools: Python, Pandas, sklearn, numpy, matplotlib, seaborn, nltk, wordcloud, plotly, scipy, collections, re 
