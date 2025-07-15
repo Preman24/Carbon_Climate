@@ -35,6 +35,9 @@ Result 3.
 - Lasso Regression
 - Elastic Net Regression
 
+<img width="1183" height="584" alt="image" src="https://github.com/user-attachments/assets/f1458ae6-1a81-4423-9c55-d19f0be5f510" />
+
+
 => All models showed a good R2 performance above 0.9, indicating these models explain 90% of the variance in carbon emissions
 
 => Linear and Ridge models demonstrated better accuracy with MSE, RMSE, and MAE values all below 0.4, while Lasso and Elastic Net had higher error metrics, indicating weaker predictive capabilities despite high R2 values, but the Linear model was selected as the best predictive model in predicting carbon emissions
